@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73356&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi+there%2C+I'm+Yongqiang+Gong!;Why+do+you+come+here%3F;Sure%2C+it+is+not+important.;Hoping+you+can+get+helps+from+here!)](https://git.io/typing-svg)
+
 # Hi there, I'm Yongqiang Gong 👋
 
 Welcome to my GitHub profile! I'm a student in School of Medicine, NanKai University. Here's a bit about me:
@@ -12,8 +14,8 @@ Welcome to my GitHub profile! I'm a student in School of Medicine, NanKai Univer
 
 ## 🛠️ Tech Stack
 - **Languages**: R
-- **Tools**: Shiny, ggplot2, tidyr
-- **Databases**: TCGA, GEO
+- **Tools**: Shiny, tidyverse, randomcoloR, patchwork
+- **Databases**: TCGA, GEO, NCBI
 
 ## 📈 GitHub Stats
 ![Yongqiang Gong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongqiangGong&show_icons=true&theme=radical)
