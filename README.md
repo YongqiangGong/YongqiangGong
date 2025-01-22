@@ -2,11 +2,6 @@
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73356&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hi+there%2C+I'm+Yongqiang+Gong!;Why+do+you+come+here%3F;Sure%2C+it+is+not+important.;Hoping+you+can+get+helps+from+here!" alt="Typing SVG" /></a>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 👋Welcome to my GitHub profile! I'm a student in School of Medicine, NanKai University. Here's a bit about me:
 
