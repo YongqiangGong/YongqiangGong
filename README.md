@@ -27,7 +27,6 @@
 - [QQ](mailto:2796595606@qq.com)
 - [Mail](mailto:gongyq@mail.nankai.edu.cn)
 - [Personal Website](https://yongqianggong.github.io/)
-- [Shiny Apps](http://xiyoucloud.pro:25653/)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects!
 
