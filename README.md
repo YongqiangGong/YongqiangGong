@@ -9,7 +9,7 @@
 - 🌱 Learning: R, Python, and data analysis  
 - 💬 Ask me about: coding in R or tech in medicine  
 - 📫 Email: [gongyq@mail.nankai.edu.cn](mailto:gongyq@mail.nankai.edu.cn)  
-- ⚡ Fun fact: I enjoy chess and logic puzzles!
+- ⚡ Fun fact: I enjoy swimming and running!
 
 ---
 
