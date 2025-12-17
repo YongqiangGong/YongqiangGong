@@ -12,10 +12,6 @@
 - 📫 How to reach me: [gongyq](mailto:gongyq@mail.nankai.edu.cn)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
-## 🛠️ Tech Stack
-- **Languages**: R
-- **Tools**: Shiny, tidyverse, randomcoloR, patchwork
-- **Databases**: TCGA, GEO, NCBI
 
 ## 📈 GitHub Stats
 ![Yongqiang Gong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongqiangGong&show_icons=true&theme=radical)
@@ -26,7 +22,6 @@
 ## 📫 Connect with Me
 - [QQ](mailto:2796595606@qq.com)
 - [Mail](mailto:gongyq@mail.nankai.edu.cn)
-- [Personal Website](https://yongqianggong.github.io/)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects!
 
